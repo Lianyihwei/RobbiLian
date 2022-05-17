@@ -1,2 +1,2 @@
-# RobbiLian
-rookie python
+# Yihwei Lian
+LCC python course exercise file
