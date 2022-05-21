@@ -11,8 +11,7 @@ for i in range(1, input_count + 1):
     answer.append(num)
 
 new_answer = sorted(answer)
-set_answer = sorted(set(new_answer))
 
 print("tuple型態：{}".format(tuple(new_answer)))
 print("list型態：{}".format(new_answer))
-print("set型態：{}".format(set_answer))
+print("set型態：{}".format(set(new_answer)))
